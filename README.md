@@ -6,11 +6,11 @@
 0.1.0
 
 ##Usage##
-    	$('span').linkIt({
-				href: 'test.com',
-				'text': 'Anything you want',
-				'target': '_blank'
-			});
+    $('span').linkIt({
+		href: 'test.com',
+		'text': 'Anything you want',
+		'target': '_blank'
+	});
 
 ##Vendors##
 jQuery - [http://jquery.com](http:jquery.com)
