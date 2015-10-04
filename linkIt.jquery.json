@@ -1,0 +1,33 @@
+{
+    "name": "linkIt",
+    "title": "linkIt jQuery Pplugin",
+    "description": "Simple plugin to convert any element into a link",
+    "keywords": [
+        "link",
+        "html",
+        "content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Flavio Zhingri",
+        "url": "http://www.teckdad.com/"
+    },
+    "maintainers": [
+        {
+            "name": "Flavio Zhingri",
+            "email": "fzhingri24@gmail.com",
+            "url": "http://www.teckdad.com/"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/FlavioAlexander/jquery.linkIt/blob/master/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/FlavioAlexander/jquery.linkIt",
+    "docs": "https://github.com/FlavioAlexander/jquery.linkIt",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
